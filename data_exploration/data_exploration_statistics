@@ -1,0 +1,41 @@
+=========================================
+Dataset Complete dataset
+Mean users per song 20.494763394320575
+Mean songs per user 239.87702812550805
+Total number of songs 359966
+Total number of users 30755
+==== Start: most_active_users_train_subset====
+2018-09-06 19:55:57.539291
+=========================================
+Dataset Most active users subset
+Mean users per song 8.76670539688915
+Mean songs per user 1222.3066666666666
+Total number of songs 209139
+Total number of users 1500
+==== Start: most_popular_songs====
+2018-09-06 19:56:07.864481
+==== Start: required_songs_with_features====
+2018-09-06 19:56:09.210165
+==== Start: target_subset====
+2018-09-06 19:56:14.009022
+=========================================
+Dataset Target subset
+Mean users per song 26.086769417127556
+Mean songs per user 1091.14
+Total number of songs 62741
+Total number of users 1500
+==== Start: train_test_split====
+2018-09-06 19:56:21.488195
+Percentage songs in test that are not in train 0.004948372574940155
+=========================================
+Dataset Train dataset
+Mean users per song 18.331086705942624
+Mean songs per user 763.3553333333333
+Total number of songs 62464
+Total number of users 1500
+=========================================
+Dataset Test dataset
+Mean users per song 8.783397048840616
+Mean songs per user 327.7846666666667
+Total number of songs 55978
+Total number of users 1500
